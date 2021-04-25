@@ -1,3 +1,4 @@
+![Blue and Green Shape Fitness Influencer Neon Noir YouTube Channel Art](https://user-images.githubusercontent.com/61046945/116010010-0cd47280-a60c-11eb-9072-70f4d89618c7.png)
 # Text To Speech
 A simple and easy to use text to speech software coded in python using the pyttsx library.
 The pre-exisiting voice model is really not that great but after some time I'll try to add in a new voice model.
